@@ -5,5 +5,4 @@ Dataset:loan_data
     - Set up path in environment variables (Windows)
 2.Run"fir.py"
 3.Run"nn_ga.py","nn_rhc.py","nn_sa.py","TSP.py","Flipflop.py","continuouspeak.py" using jython
-
 4.Run"plot.py
